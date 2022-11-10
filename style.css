@@ -5,13 +5,13 @@
 }
 
 :root {
-	--card-color-primary: "#f7dd43";
-	--card-title-border-color: "#746615";
+	--card-color-primary: #f7dd43;
+	--card-title-border-color: #746615;
 }
 
 body.blue {
-	--card-color-primary: "#338AF3";
-	--card-title-border-color: "#338AF3";
+	--card-color-primary: #338af3;
+	--card-title-border-color: #338af3;
 }
 
 ul {
